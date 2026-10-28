@@ -14,7 +14,9 @@ Can an LLM become more accurate while getting worse at the task? We study langua
 
 ## [DeepWheat](https://github.com/pungyman/DeepWheat)
 
-District-level winter wheat yield forecasting across 275 districts in India, combining weather, satellite vegetation indices, soil profiles, and historical yields. Published in [Scientific Reports (2026)](https://doi.org/10.1038/s41598-026-56576-5).
+**Published in [Scientific Reports](https://doi.org/10.1038/s41598-026-56576-5) · 2026**
+
+District-level winter wheat yield forecasting across 275 districts in India, combining weather, satellite vegetation indices, soil profiles, and historical yields.
 
 [![Observed wheat yields, DeepWheat predictions, and prediction errors across India](https://raw.githubusercontent.com/pungyman/DeepWheat/HEAD/assets/wheat-yield-maps.png)](https://github.com/pungyman/DeepWheat)
 
