@@ -16,7 +16,7 @@ Can an LLM become more accurate while getting worse at the task? We study langua
 
 **Published in [Scientific Reports](https://doi.org/10.1038/s41598-026-56576-5) · 2026**
 
-District-level winter wheat yield forecasting across 275 districts in India, combining weather, satellite vegetation indices, soil profiles, and historical yields.
+When does last year’s harvest stop being a good forecast? DeepWheat combines satellite observations, weather, and soil profiles to predict wheat yields across 275 Indian districts. Its clearest advantage over simply repeating last year’s yield emerges in a dry season, when changing conditions make history less reliable.
 
 [![Observed wheat yields, DeepWheat predictions, and prediction errors across India](https://raw.githubusercontent.com/pungyman/DeepWheat/HEAD/assets/wheat-yield-maps.png)](https://github.com/pungyman/DeepWheat)
 
