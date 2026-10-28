@@ -6,7 +6,7 @@
 
 Can an AI choose a portfolio—and show its work before buying it? Four specialist agents turn market data, daily ensemble ranks, volatility forecasts, and news into an initial allocation. Code quantifies its risks, the portfolio manager gets one chance to revise, and a validated decision becomes the starting book.
 
-[![Evidence-driven entry: independent analysts, a portfolio-manager draft, deterministic risk critique, bounded revision, and validated initial weights.](https://raw.githubusercontent.com/pungyman/EntryDesk/main/assets/entry-overview.svg)](https://github.com/pungyman/EntryDesk/blob/main/docs/entry-mechanism.md)
+[![Graphical evidence streams feed four analyst agents, whose independent reports inform the portfolio manager and its stock weights. Code provides bounded risk review and validation.](https://raw.githubusercontent.com/pungyman/EntryDesk/main/assets/entry-desk-flow.svg)](https://github.com/pungyman/EntryDesk/blob/main/docs/entry-mechanism.md)
 
 [Explore the implementation](https://github.com/pungyman/EntryDesk) · [How the entry works](https://github.com/pungyman/EntryDesk/blob/main/docs/entry-mechanism.md) · [Try the offline demo](https://github.com/pungyman/EntryDesk#try-the-entry-without-an-api-key)
 
