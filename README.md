@@ -1,5 +1,17 @@
 # Featured projects
 
+## [ICAIF 2026 Trading Desk](https://github.com/pungyman/icaif2026)
+
+**ACM ICAIF 2026 · Trading Agent Competition entry**
+
+Can an AI choose a portfolio—and show its work before buying it? Four specialist agents turn market data, daily ensemble ranks, volatility forecasts, and news into an initial allocation. Code quantifies its risks, the portfolio manager gets one chance to revise, and a validated decision becomes the starting book.
+
+[![Evidence-driven entry: independent analysts, a portfolio-manager draft, deterministic risk critique, bounded revision, and validated initial weights.](https://raw.githubusercontent.com/pungyman/icaif2026/main/assets/entry-mechanism.svg)](https://github.com/pungyman/icaif2026/blob/main/docs/entry-mechanism.md)
+
+[Explore the implementation](https://github.com/pungyman/icaif2026) · [How the entry works](https://github.com/pungyman/icaif2026/blob/main/docs/entry-mechanism.md) · [Try the offline demo](https://github.com/pungyman/icaif2026#try-the-entry-without-an-api-key)
+
+---
+
 ## [BeyondAccuracy](https://github.com/pungyman/BeyondAccuracy)
 
 **Accepted at Multi-LLL 2026 · AACL-IJCNLP workshop**
