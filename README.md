@@ -1,4 +1,16 @@
-# Featured project
+# Featured projects
+
+## [BeyondAccuracy](https://github.com/pungyman/BeyondAccuracy)
+
+**Accepted at Multi-LLL 2026 · AACL-IJCNLP workshop**
+
+Can an LLM become more accurate while getting worse at the task? We study language subspaces, activation interventions, and multilingual reasoning across four open-weight models. Evaluating correctness together with response language reveals trade-offs that accuracy alone hides.
+
+<a href="https://github.com/pungyman/BeyondAccuracy"><img src="https://raw.githubusercontent.com/pungyman/BeyondAccuracy/main/paper/workshop/figures/fig_grid_rewrite.png" width="500" alt="Accuracy gains from activation interventions often come with response-language fidelity losses."></a>
+
+[Explore the implementation](https://github.com/pungyman/BeyondAccuracy) · [Results and reproduction](https://github.com/pungyman/BeyondAccuracy/blob/main/docs/reproduction.md)
+
+---
 
 ## [DeepWheat](https://github.com/pungyman/DeepWheat)
 
