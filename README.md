@@ -20,7 +20,7 @@ Can an LLM become more accurate while getting worse at the task? We study langua
 
 <a href="https://github.com/pungyman/BeyondAccuracy"><img src="https://raw.githubusercontent.com/pungyman/BeyondAccuracy/main/paper/workshop/figures/fig_grid_rewrite.png" width="500" alt="Accuracy gains from activation interventions often come with response-language fidelity losses."></a>
 
-[Explore the implementation](https://github.com/pungyman/BeyondAccuracy) · [Results and reproduction](https://github.com/pungyman/BeyondAccuracy/blob/main/docs/reproduction.md)
+[Read the paper (arXiv)](https://arxiv.org/abs/2611.05278) · [Explore the implementation](https://github.com/pungyman/BeyondAccuracy) · [Results and reproduction](https://github.com/pungyman/BeyondAccuracy/blob/main/docs/reproduction.md)
 
 ---
 
